@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InfoTehTestDemo</string>
+    <string name="place">Places</string>
+    <string name="celsius">°C</string>
+    <string name="arrow_down">↓</string>
+    <string name="arrow_up">↑</string>
+    <string name="humidity">Humidity</string>
+    <string name="percent">%</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="meters_per_second">m/s</string>
+    <string name="enter_place_to_filter">Enter place to filter</string>
+</resources>
