@@ -22,6 +22,6 @@
     </style>
 
     <style name="Theme.Custom.Toolbar" parent="Widget.Material3.Toolbar">
-        <item name="android:src">@color/material_dynamic_primary10</item>
+        <item name="android:background">@color/material_dynamic_primary10</item>
     </style>
 </resources>
